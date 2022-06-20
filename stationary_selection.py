@@ -39,3 +39,7 @@ if __name__ == '__main__':
         for ns in non_stationary:
             os.remove(f'{path}/{period}/{ns}')
 
+
+#
+# Mean error:  79.11268754892825
+# Mean AIC:  2566.342667205593
